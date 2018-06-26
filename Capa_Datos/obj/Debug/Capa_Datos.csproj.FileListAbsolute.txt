@@ -1,0 +1,161 @@
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\EntityFramework.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\MySql.Data.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\EntityFramework.xml
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\MySql.Data.xml
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\de\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\es\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\fr\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\it\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\ja\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\ko\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\pt\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\zh-Hans\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\bin\Debug\zh-Hant\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\EntityFramework.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\MySql.Data.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\EntityFramework.xml
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\MySql.Data.xml
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\de\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\es\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\fr\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\it\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\ja\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\ko\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\pt\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\zh-Hans\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\bin\Debug\zh-Hant\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\obj\Debug\Capa_Datos.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\EntityFramework.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\MySql.Data.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\EntityFramework.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\MySql.Data.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\de\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\es\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\fr\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\it\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\ja\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\ko\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\pt\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\zh-Hans\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\bin\Debug\zh-Hant\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\obj\Debug\Capa_Datos.csproj.ResolveComReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\EntityFramework.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\MySql.Data.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\EntityFramework.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\MySql.Data.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\de\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\es\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\fr\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\it\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\ja\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\ko\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\pt\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\zh-Hans\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\bin\Debug\zh-Hant\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\obj\Debug\Capa_Datos.csproj.ResolveComReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\EntityFramework.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\MySql.Data.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\EntityFramework.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\MySql.Data.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\de\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\es\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\fr\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\it\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\ja\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\ko\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\pt\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\zh-Hans\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\bin\Debug\zh-Hant\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\obj\Debug\Capa_Datos.csproj.ResolveComReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\EntityFramework.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\MySql.Data.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\EntityFramework.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\MySql.Data.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\de\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\es\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\fr\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\it\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\ja\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\ko\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\pt\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\zh-Hans\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\bin\Debug\zh-Hant\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\obj\Debug\Capa_Datos.csproj.ResolveComReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Datos\obj\Debug\Capa_Datos.pdb

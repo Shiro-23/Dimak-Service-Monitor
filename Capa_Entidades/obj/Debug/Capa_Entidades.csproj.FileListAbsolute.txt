@@ -1,0 +1,27 @@
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\Capa_Entidades\obj\Debug\Capa_Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\Eric\Desktop\monitor Alpha\Capa_Entidades\obj\Debug\Capa_Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Entidades\obj\Debug\Capa_Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\Capa_Entidades\obj\Debug\Capa_Entidades.pdb

@@ -1,0 +1,9 @@
+c:\users\eric\documents\visual studio 2015\Projects\monitor Alpha\monitor Alpha\bin\Debug\monitor Alpha.exe.config
+c:\users\eric\documents\visual studio 2015\Projects\monitor Alpha\monitor Alpha\bin\Debug\monitor Alpha.exe
+c:\users\eric\documents\visual studio 2015\Projects\monitor Alpha\monitor Alpha\bin\Debug\monitor Alpha.pdb
+c:\users\eric\documents\visual studio 2015\Projects\monitor Alpha\monitor Alpha\obj\Debug\monitor Alpha.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2015\Projects\monitor Alpha\monitor Alpha\obj\Debug\monitor_Alpha.Form1.resources
+c:\users\eric\documents\visual studio 2015\Projects\monitor Alpha\monitor Alpha\obj\Debug\monitor_Alpha.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2015\Projects\monitor Alpha\monitor Alpha\obj\Debug\monitor Alpha.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2015\Projects\monitor Alpha\monitor Alpha\obj\Debug\monitor Alpha.exe
+c:\users\eric\documents\visual studio 2015\Projects\monitor Alpha\monitor Alpha\obj\Debug\monitor Alpha.pdb

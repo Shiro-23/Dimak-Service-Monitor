@@ -1,0 +1,6 @@
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\monitor Alpha\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

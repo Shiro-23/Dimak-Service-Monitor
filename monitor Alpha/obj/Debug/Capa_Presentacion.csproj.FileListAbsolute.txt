@@ -1,0 +1,243 @@
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\monitor Alpha.exe.config
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\obj\Debug\monitor Alpha.exe
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\obj\Debug\monitor Alpha.pdb
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\monitor Alpha.exe
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\monitor Alpha.pdb
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\Capa_Datos.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\Capa_Entidades.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\EnvDTE.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\EnvDTE80.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\MySql.Data.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\stdole.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\Capa_Datos.pdb
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\Capa_Entidades.pdb
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\MySql.Data.xml
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\obj\Debug\Capa_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.monitor Alpha.exe.config
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\obj\Debug\monitor_Alpha.Form1.resources
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\obj\Debug\monitor_Alpha.Properties.Resources.resources
+C:\Users\Eric\Desktop\monitor Alpha\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.GenerateResource.Cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.ResolveComReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\obj\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\obj\Debug\monitor Alpha.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\monitor Alpha.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\EnvDTE.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\EnvDTE80.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\MySql.Data.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\stdole.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\MySql.Data.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\obj\Debug\Capa_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\obj\Debug\monitor_Alpha.Form1.resources
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\obj\Debug\monitor_Alpha.Properties.Resources.resources
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.2\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.GenerateResource.Cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\monitor Alpha.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\EnvDTE.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\EnvDTE80.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\MySql.Data.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\stdole.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\MySql.Data.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\obj\Debug\Capa_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.ResolveComReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\obj\Debug\monitor_Alpha.Form1.resources
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\obj\Debug\monitor_Alpha.Properties.Resources.resources
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.GenerateResource.Cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\obj\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.4\monitor Alpha\obj\Debug\monitor Alpha.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.ResolveComReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\obj\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\obj\Debug\monitor Alpha.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\monitor Alpha.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\EnvDTE.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\EnvDTE80.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\MySql.Data.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\stdole.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\MySql.Data.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\obj\Debug\monitor_Alpha.Form1.resources
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\obj\Debug\monitor_Alpha.Properties.Resources.resources
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.5\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.GenerateResource.Cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\monitor Alpha V1.5\monitor Alpha\bin\Debug\monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\monitor Alpha V1.5\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.ResolveComReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\monitor Alpha V1.5\monitor Alpha\obj\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\monitor Alpha V1.5\monitor Alpha\obj\Debug\monitor Alpha.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\monitor Alpha.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\EnvDTE.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\EnvDTE80.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\MySql.Data.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\stdole.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\MySql.Data.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\obj\Debug\Capa_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.ResolveComReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\obj\Debug\monitor_Alpha.Form1.resources
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\obj\Debug\monitor_Alpha.Properties.Resources.resources
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.GenerateResource.Cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\obj\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Monitor\monitor Alpha V1.6\monitor Alpha\obj\Debug\monitor Alpha.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\monitor Alpha.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\Capa_Datos.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\Capa_Entidades.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\EnvDTE.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\EnvDTE80.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\MySql.Data.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\stdole.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\Capa_Datos.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\Capa_Entidades.pdb
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\MySql.Data.xml
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\obj\Debug\Capa_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.monitor Alpha.exe.config
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.ResolveComReference.cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\obj\Debug\monitor_Alpha.frm_Dimak_Service_Monitor.resources
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\obj\Debug\monitor_Alpha.Properties.Resources.resources
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\obj\Debug\Capa_Presentacion.csproj.GenerateResource.Cache
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\obj\Debug\monitor Alpha.exe
+C:\Users\Administrador.SHIRO-ERIC\Desktop\Dimak Service Monitor\monitor Alpha\obj\Debug\monitor Alpha.pdb
